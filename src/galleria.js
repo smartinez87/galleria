@@ -1922,7 +1922,7 @@ Galleria.prototype = {
             },
 
             success: function() {
-                console.log('ready');
+                //console.log('ready');
                 self.trigger( Galleria.READY );
             },
 
